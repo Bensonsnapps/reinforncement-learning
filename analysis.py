@@ -29,7 +29,7 @@ def question3a():
     answerNoise = None
     answerLivingReward = None
     return answerDiscount, answerNoise, answerLivingReward
-    # If not possible, return 'NOT POSSIBLE'
+    # If not possible, return 'NOT POSSIBLE' why?
 
 def question3b():
     answerDiscount = None
