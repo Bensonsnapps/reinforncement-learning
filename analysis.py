@@ -45,7 +45,7 @@ def question3c():
     return answerDiscount, answerNoise, answerLivingReward
     # If not possible, return 'NOT POSSIBLE'
 
-def question3d():
+def question3d(): why
     answerDiscount = None
     answerNoise = None
     answerLivingReward = None
